@@ -1,8 +1,8 @@
 //LONGEST WORD
 //return the longest word in a given array
 const longestWord = str => {
-  var words = str.split(" ")
-  var longest = ""
+  let words = str.split(" ")
+  let longest = ""
   for (var word of words) {
     if (word.length > longest.length) longest = word
   }
