@@ -11,7 +11,6 @@ const longestWord = str => {
 }
 console.log(longestWord("The quick brown fox jumped over the lazy dog"))
 
-
 module.exports = {
   longestWord
-};
+}
