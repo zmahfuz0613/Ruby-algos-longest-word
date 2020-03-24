@@ -5,15 +5,13 @@
 
 # Algo-a-day
 
+## Objectives
+- Write a function that takes an array of words
+- It should return the longest word in the array
 
-1. Fork
-2. Clone
-3. npm i
-4. npm test
-5. Pull Request
+1. Fork and clone this repo.
+2. Run npm i from within the repo.
+3. Run npm run test or npm test to make sure the tests work. (They should fail.)
+4. Get hacking on the problem and test when you think you've got it!
 
-## Longest Word
-write a function that takes an array of words and returns the longest word
-
- 
-
+Pull requests due by 11pm. Happy hacking!
