@@ -4,9 +4,12 @@
 
 "Longest Word"
 
+_Language: Ruby_
+_Difficulty Rating: Easy_
+
 ### Objectives
 
-- Write a function that takes a given string (`str`) and checks for the longest individual word in that string.
+- Write a function that takes a given string (`str`) and finds the longest individual word in that string.
 - The output should return a string.
 
 ### Getting Started
