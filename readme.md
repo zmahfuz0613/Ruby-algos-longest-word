@@ -5,6 +5,7 @@
 "Longest Word"
 
 _Language: Ruby_
+
 _Difficulty Rating: Easy_
 
 ### Objectives
